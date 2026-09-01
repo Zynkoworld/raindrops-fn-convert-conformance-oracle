@@ -1,0 +1,8 @@
+{"input": 1, "expect": "1", "task": "raindrops", "lang": "python"}
+{"input": 3, "expect": "Pling", "task": "raindrops", "lang": "python"}
+{"input": 5, "expect": "Plang", "task": "raindrops", "lang": "python"}
+{"input": 7, "expect": "Plong", "task": "raindrops", "lang": "python"}
+{"input": 6, "expect": "Pling", "task": "raindrops", "lang": "python"}
+{"input": 8, "expect": "8", "task": "raindrops", "lang": "python"}
+{"input": 9, "expect": "Pling", "task": "raindrops", "lang": "python"}
+{"input": 10, "expect": "Plang", "task": "raindrops", "lang": "python"}
